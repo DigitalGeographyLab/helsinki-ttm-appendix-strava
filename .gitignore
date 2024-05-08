@@ -1,0 +1,13 @@
+/dist
+/build
+*.egg-info
+*.pyc
+*.swp
+*~
+._*
+.DS_Store
+.ipynb_checkpoints
+.virtualenv
+
+/data/*
+!/data/.keep
